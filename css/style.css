@@ -474,3 +474,59 @@ input[type=checkbox]:checked ~ .navigation{
     color: #ddd;
     background-color:  #b85d1c;
 }
+
+/* Customers */
+.customers{
+    margin-left: 8rem;
+    padding-bottom: 7rem;
+    background-color: #15141b;
+}
+
+.customer-paragragh{
+    font-size: 1.8rem;
+    color: white;
+    width: 50%;
+    margin: 2rem auto 8rem auto;
+    text-align: center;
+}
+
+.customer-card-wraper{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.customer-card{
+    background:#eee;
+    width: 60rem;
+    display: flex;
+}
+.customer-image{
+    width: 20rem;
+    margin-left: -1.3rem;
+}
+
+.customer-info{
+    padding: 0 2rem;
+}
+
+.customer-fullname{
+    font-size: 2rem;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+.customer-paragraph1{
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #b85d1c;
+}
+
+.customer-paragraph2{
+    font-size: 1.3rem;
+    font-style: italic;
+    
+}
+
+.customer-image-wrapper{
+    margin: auto 0;
+}
